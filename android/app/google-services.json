@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "738771730417",
+    "project_id": "decha-494",
+    "storage_bucket": "decha-494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738771730417:android:7b5f9b8206860c3d538e50",
+        "android_client_info": {
+          "package_name": "com.camt.decha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738771730417-9kmh83mbdhsd897ro11f467sb52frffj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.camt.decha",
+            "certificate_hash": "842d7ec5974839f37a5aa11d7f842e1b614a105f"
+          }
+        },
+        {
+          "client_id": "738771730417-1c1anr9p6m77unslaogsbapq4n40c6ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_UQPMctlMXp9bYp0TDvybta5El5xQhqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738771730417-1c1anr9p6m77unslaogsbapq4n40c6ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
